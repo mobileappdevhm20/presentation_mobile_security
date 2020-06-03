@@ -1,0 +1,6 @@
+[submodule "mock-backend"]
+	path = mock-backend
+	url = https://github.com/theexiile1305/ma-sp-security-backend
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/theexiile1305/ma_sp_security
